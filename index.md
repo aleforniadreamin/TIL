@@ -1,3 +1,7 @@
+---
+title: "TIL-INDEX"
+---
+
 # Today I Learned
 
 ## 2022
